@@ -1,0 +1,101 @@
+@font-face {
+  font-family: "MarkOT-Medium";
+  src: url("https://db.onlinewebfonts.com/t/450fdebcd9b47d4e245c0272405e0cf2.eot");
+  src: url("https://db.onlinewebfonts.com/t/450fdebcd9b47d4e245c0272405e0cf2.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/450fdebcd9b47d4e245c0272405e0cf2.woff2")
+      format("woff2"),
+    url("https://db.onlinewebfonts.com/t/450fdebcd9b47d4e245c0272405e0cf2.woff")
+      format("woff"),
+    url("https://db.onlinewebfonts.com/t/450fdebcd9b47d4e245c0272405e0cf2.ttf")
+      format("truetype"),
+    url("https://db.onlinewebfonts.com/t/450fdebcd9b47d4e245c0272405e0cf2.svg#MarkOT-Medium")
+      format("svg");
+}
+
+.deals {
+  width: 100%;
+  height: auto;
+  background-color: lightblue;
+}
+
+.product {
+  min-height: 500px;
+  height: auto;
+  width: 300px;
+  position: relative;
+  // background-color: beige;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 30px;
+  -webkit-box-shadow: 0px 0px 26px -9px rgba(0, 0, 0, 0.55);
+  -moz-box-shadow: 0px 0px 26px -9px rgba(0, 0, 0, 0.55);
+  box-shadow: 0px 0px 26px -9px rgba(0, 0, 0, 0.55);
+}
+
+.pbanner {
+  width: auto;
+  height: 20px;
+  padding: 7px;
+  font-size: 10px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+  font-family: MarkOT-Medium;
+  color: white;
+}
+
+.image-holder {
+  min-height: 400px;
+  height: auto;
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+  background-color: pink;
+}
+
+.image-holder img {
+  width: auto;
+  height: auto;
+  object-fit: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  //   background-color: purple;
+}
+
+.productName {
+  background-color: blue;
+  font-family: MarkOT-Medium;
+}
+
+.productPrice {
+  background-color: blue;
+  font-family: MarkOT-Medium;
+  color: white;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.buy-now {
+  width: 236px;
+
+  height: 40px;
+  font-family: MarkOT-Medium;
+  color: black;
+  border-style: solid;
+  border-color: #f1be48;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+  cursor: pointer;
+}

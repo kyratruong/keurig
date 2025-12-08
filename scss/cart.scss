@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "MarkOT-Medium";
+  src: url("https://db.onlinewebfonts.com/t/450fdebcd9b47d4e245c0272405e0cf2.eot");
+  src: url("https://db.onlinewebfonts.com/t/450fdebcd9b47d4e245c0272405e0cf2.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/450fdebcd9b47d4e245c0272405e0cf2.woff2")
+      format("woff2"),
+    url("https://db.onlinewebfonts.com/t/450fdebcd9b47d4e245c0272405e0cf2.woff")
+      format("woff"),
+    url("https://db.onlinewebfonts.com/t/450fdebcd9b47d4e245c0272405e0cf2.ttf")
+      format("truetype"),
+    url("https://db.onlinewebfonts.com/t/450fdebcd9b47d4e245c0272405e0cf2.svg#MarkOT-Medium")
+      format("svg");
+}
+
+.cartPage {
+  width: 100%;
+  min-height: 500px;
+  height: auto;
+  // background-color: lightcoral;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+
+  font-family: MarkOT-Medium;
+
+  button {
+    right: 0px;
+    top: 0px;
+    background-color: none;
+  }
+}

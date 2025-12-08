@@ -1,0 +1,94 @@
+{
+  "PRODUCTS": [
+    {
+      
+    "productBanner": "EXCLUSIVE COLOR AVAILABLE",
+    
+      "productBannerColor": "#dfc2c4",
+      "productImage": "../images/product1.png",
+      "productName": "K-Mini Mate™ Coffee Maker",
+      "productPrice": "",
+      "productDescription": ""
+    },
+    {
+      "productBanner": "EXCLUSIVE DEAL",
+     
+      "productBannerColor": "#8b008b",
+      "productImage": "../images/product2.png",
+      "productName": "Product 2",
+      "productPrice": "",
+      "productDescription": ""
+    },
+    {
+      "productBanner": "EXCLUSIVE DEAL",
+      "productBannerColor": "#8b008b",
+      "productImage": "../images/product3.png",
+      "productName": "Product 3",
+      "productPrice": "",
+      "productDescription": ""
+    },
+    {
+      "productBanner": "EXCLUSIVE DEAL",
+      "productBannerColor": "#8b008b",
+      "productImage": "../images/product4.png",
+      "productName": "Product 4",
+      "productPrice": "",
+      "productDescription": ""
+    },
+
+    {
+      "productBanner": "SAVE 50% BY BUILDING A KIT",
+      "productBannerColor": "#007c91",
+      "productImage": "../images/product5.png",
+
+      "productName": "Product 5",
+      "productPrice": "",
+      "productDescription": ""
+    },
+    {
+      "productBanner": "SAVE 50% BY BUILDING A KIT",
+      "productBannerColor": "#007c91",
+      "productImage": "../images/product6.png",
+      "productName": "Product 6",
+      "productPrice": "",
+      "productDescription": ""
+    },
+
+    {
+      "productBanner": "OVER 50% OFF WHEN YOU BUILD A KIT",
+      "productBannerColor": "#007c91",
+      "productImage": "../images/product7.png",
+      "productName": "Product 7",
+      "productPrice": "",
+      "productDescription": ""
+    },
+
+    {
+      "productBanner":"SAVE 50% BY BUILDING A KIT"
+,
+      "productBannerColor": "#007c91",
+      "productImage": "../images/product8.png",
+      "productName": "Product 8",
+      "productPrice": "",
+      "productDescription": ""
+    },
+
+    {
+      "productBanner": "OVER 50% OFF WHEN YOU BUILD A KIT",
+      "productBannerColor": "#007c91",
+      "productImage": "../images/product9.png",
+      "productName": "Product 9",
+      "productPrice": "",
+      "productDescription": ""
+    },
+
+    {
+      "productBanner": "$130 OFF WHEN YOU BUILD A KIT",
+      "productBannerColor": "#007c91",
+      "productImage": "../images/product10.png",
+      "productName": "Product 10",
+      "productPrice": "",
+      "productDescription": ""
+    }
+  ]
+}

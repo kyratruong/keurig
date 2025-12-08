@@ -1,0 +1,23 @@
+{
+  "name": "keurig",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "compile": "sass scss/styles.scss css/styles.css -w --no-source-map",
+    "serve": "live-server dist",
+    "build-webpack": "webpack",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.2.4"
+  },
+  "dependencies": {
+    "firebase": "^12.6.0",
+    "jquery": "^3.7.1",
+    "sass": "^1.94.2",
+    "sweetalert2": "^11.26.4"
+  }
+}
