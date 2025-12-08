@@ -310,19 +310,6 @@ nav .links .outlet-link img {
   background-size: cover;
 }
 
-.productName {
-  background-color: blue;
-  font-family: MarkOT-Medium;
-}
-
-.productPrice {
-  background-color: blue;
-  font-family: MarkOT-Medium;
-  color: white;
-  padding: 10px;
-  font-size: 16px;
-}
-
 .buy-now {
   width: 236px;
   height: 40px;
