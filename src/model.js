@@ -115,7 +115,8 @@ function addBuyNowListener() {
 }
 
 function loadProducts() {
-  $.getJSON("/data/data.json", (data) => {
+  // Use relative path so it works when deployed in a subfolder
+  $.getJSON("data.json", (data) => {
     products = data.PRODUCTS;
     console.log(products);
     loadHomePage();

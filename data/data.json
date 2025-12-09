@@ -6,61 +6,60 @@
     
       "productBannerColor": "#dfc2c4",
       "productImage": "/images/product1.png",
-      "productName": "K-Mini Mate™ Coffee Maker",
-      "productPrice": "99.99",
-      "productDescription": "Compact and convenient single-serve coffee maker. Brew a perfect cup in minutes."
+      "productName": "",
+      "productPrice": "",
+      "productDescription": ""
     },
     {
       "productBanner": "EXCLUSIVE DEAL",
      
       "productBannerColor": "#8b008b",
       "productImage": "/images/product2.png",
-      "productName": "Product 2",
-      "productPrice": "79.99",
-      "productDescription": "Premium coffee brewing experience with advanced features and sleek design."
+      "productName": "",
+      "productPrice": "",
+      "productDescription": ""
     },
     {
       "productBanner": "EXCLUSIVE DEAL",
       "productBannerColor": "#8b008b",
       "productImage": "/images/product3.png",
-      "productName": "Product 3",
-      "productPrice": "129.99",
-      "productDescription": "Professional-grade coffee maker for the coffee enthusiast. Includes heating system."
+      "productName": "",
+      "productPrice": "",
+      "productDescription": ""
     },
     {
       "productBanner": "EXCLUSIVE DEAL",
       "productBannerColor": "#8b008b",
       "productImage": "/images/product4.png",
-      "productName": "Product 4",
-      "productPrice": "149.99",
-      "productDescription": "Top-of-the-line coffee maker with smart technology and wireless controls."
+      "productName": "",
+      "productPrice": "",
+      "productDescription": ""
     },
 
     {
       "productBanner": "SAVE 50% BY BUILDING A KIT",
       "productBannerColor": "#007c91",
       "productImage": "/images/product5.png",
-
-      "productName": "Product 5",
-      "productPrice": "59.99",
-      "productDescription": "Budget-friendly coffee maker perfect for everyday brewing needs."
+      "productName": "",
+      "productPrice": "",
+      "productDescription": ""
     },
     {
       "productBanner": "SAVE 50% BY BUILDING A KIT",
       "productBannerColor": "#007c91",
       "productImage": "/images/product6.png",
-      "productName": "Product 6",
-      "productPrice": "89.99",
-      "productDescription": "Mid-range coffee maker with excellent quality and reliable performance."
+      "productName": "",
+      "productPrice": "",
+      "productDescription": ""
     },
 
     {
       "productBanner": "OVER 50% OFF WHEN YOU BUILD A KIT",
       "productBannerColor": "#007c91",
       "productImage": "/images/product7.png",
-      "productName": "Product 7",
-      "productPrice": "119.99",
-      "productDescription": "Advanced brewing technology with customizable settings for the perfect cup."
+      "productName": "",
+      "productPrice": "",
+      "productDescription": ""
     },
 
     {
@@ -68,27 +67,27 @@
 ,
       "productBannerColor": "#007c91",
       "productImage": "/images/product8.png",
-      "productName": "Product 8",
-      "productPrice": "139.99",
-      "productDescription": "Premium model with integrated grinder and espresso capabilities."
+      "productName": "",
+      "productPrice": "",
+      "productDescription": ""
     },
 
     {
       "productBanner": "OVER 50% OFF WHEN YOU BUILD A KIT",
       "productBannerColor": "#007c91",
       "productImage": "/images/product9.png",
-      "productName": "Product 9",
-      "productPrice": "169.99",
-      "productDescription": "Luxury coffee maker with smart features and premium build quality."
+      "productName": "",
+      "productPrice": "",
+      "productDescription": ""
     },
 
     {
       "productBanner": "$130 OFF WHEN YOU BUILD A KIT",
       "productBannerColor": "#007c91",
       "productImage": "/images/product10.png",
-      "productName": "Product 10",
-      "productPrice": "199.99",
-      "productDescription": "Flagship coffee maker with all the bells and whistles for the ultimate experience."
+      "productName": "",
+      "productPrice": "",
+      "productDescription": ""
     }
   ]
 }
