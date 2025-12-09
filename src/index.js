@@ -12,7 +12,7 @@ function initAccountListener() {
     console.log("account clicked");
   });
 
-  $(".cart").on("click", function () {
+  $(".cartPage").on("click", function () {
     window.location.hash = "cart";
     console.log("cart clicked");
   });

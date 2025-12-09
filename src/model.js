@@ -10,7 +10,7 @@ function changeRoute() {
   //   console.log(hashTag + ' ' + pageID);
 
   if (pageID != "") {
-    $.get(`/pages/${pageID}.html`, function (data) {
+    $.get(`pages/${pageID}.html`, function (data) {
       console.log("data " + data);
       $("#app").html(data);
       if (pageID == "cart") {
@@ -28,14 +28,16 @@ function changeRoute() {
 
 function loadCartItems() {
   // Always wire the empty cart button
-  $(".empty-cart")
-    .off("click")
-    .on("click", function () {
-      cart = [];
-      $(".cart-items").html("Your cart is empty!");
-      $(".item-text").html("");
-      Swal.fire("Cart is empty!");
-    });
+  // $(".empty-cart")
+  //   .off("click")
+  //   .on("click", function () {
+  //     cart = [];
+  //     $(".cart-items").html("Your cart is empty!");
+  //     $(".item-text").html("");
+  //     Swal.fire("Cart is empty!");
+  //   });
+  console.log("load cart items called, cart:", cart.length);
+  console.log("cart contents:", cart);
 
   if (cart.length > 0) {
     $(".cart-items").html("");
