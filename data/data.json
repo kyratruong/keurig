@@ -1,20 +1,9 @@
 {
   "PRODUCTS": [
     {
-      
-    "productBanner": "EXCLUSIVE COLOR AVAILABLE",
-    
+      "productBanner": "EXCLUSIVE COLOR AVAILABLE",
       "productBannerColor": "#dfc2c4",
-      "productImage": "/images/product1.png",
-      "productName": "",
-      "productPrice": "",
-      "productDescription": ""
-    },
-    {
-      "productBanner": "EXCLUSIVE DEAL",
-     
-      "productBannerColor": "#8b008b",
-      "productImage": "/images/product2.png",
+      "productImage": "images/product1.png",
       "productName": "",
       "productPrice": "",
       "productDescription": ""
@@ -22,7 +11,7 @@
     {
       "productBanner": "EXCLUSIVE DEAL",
       "productBannerColor": "#8b008b",
-      "productImage": "/images/product3.png",
+      "productImage": "images/product2.png",
       "productName": "",
       "productPrice": "",
       "productDescription": ""
@@ -30,16 +19,15 @@
     {
       "productBanner": "EXCLUSIVE DEAL",
       "productBannerColor": "#8b008b",
-      "productImage": "/images/product4.png",
+      "productImage": "images/product3.png",
       "productName": "",
       "productPrice": "",
       "productDescription": ""
     },
-
     {
-      "productBanner": "SAVE 50% BY BUILDING A KIT",
-      "productBannerColor": "#007c91",
-      "productImage": "/images/product5.png",
+      "productBanner": "EXCLUSIVE DEAL",
+      "productBannerColor": "#8b008b",
+      "productImage": "images/product4.png",
       "productName": "",
       "productPrice": "",
       "productDescription": ""
@@ -47,47 +35,54 @@
     {
       "productBanner": "SAVE 50% BY BUILDING A KIT",
       "productBannerColor": "#007c91",
-      "productImage": "/images/product6.png",
+      "productImage": "images/product5.png",
       "productName": "",
       "productPrice": "",
       "productDescription": ""
     },
-
+    {
+      "productBanner": "SAVE 50% BY BUILDING A KIT",
+      "productBannerColor": "#007c91",
+      "productImage": "images/product6.png",
+      "productName": "",
+      "productPrice": "",
+      "productDescription": ""
+    },
     {
       "productBanner": "OVER 50% OFF WHEN YOU BUILD A KIT",
       "productBannerColor": "#007c91",
-      "productImage": "/images/product7.png",
+      "productImage": "images/product7.png",
       "productName": "",
       "productPrice": "",
       "productDescription": ""
     },
-
     {
-      "productBanner":"SAVE 50% BY BUILDING A KIT"
-,
+      "productBanner": "SAVE 50% BY BUILDING A KIT",
       "productBannerColor": "#007c91",
-      "productImage": "/images/product8.png",
+      "productImage": "images/product8.png",
       "productName": "",
       "productPrice": "",
       "productDescription": ""
     },
-
     {
       "productBanner": "OVER 50% OFF WHEN YOU BUILD A KIT",
       "productBannerColor": "#007c91",
-      "productImage": "/images/product9.png",
+      "productImage": "images/product9.png",
       "productName": "",
       "productPrice": "",
       "productDescription": ""
     },
-
     {
       "productBanner": "$130 OFF WHEN YOU BUILD A KIT",
       "productBannerColor": "#007c91",
-      "productImage": "/images/product10.png",
+      "productImage": "images/product10.png",
       "productName": "",
       "productPrice": "",
       "productDescription": ""
     }
   ]
 }
+     
+      
+
+
